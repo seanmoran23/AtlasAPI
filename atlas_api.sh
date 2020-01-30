@@ -1,4 +1,5 @@
 #!/bin/bash
+# author: sean.moran@mongodb.com
 set -o xtrace
 #https://docs.atlas.mongodb.com/reference/api/snapshots-get-all/
 Programming_PublicKey=''
